@@ -1,6 +1,6 @@
 # Yahoo Finance Quotes Download
 
-A short python code of a Windows GUI (tkinter) using yahooquery* library to download current asset prices into a CSV file.
+A short python code of a Windows GUI (tkinter) using yahooquery* library to download current asset prices into a CSV file. All saved in local folder.
 
 Guidelines:
 1. Seperate tickers by comma
