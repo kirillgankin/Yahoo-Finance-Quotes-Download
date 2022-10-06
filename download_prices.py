@@ -32,8 +32,9 @@ def get_prices():
     os.startfile(file_name)
 
 
+
 if __name__ == "__main__":
-# TODO: 1) Run by pressing enter   2) Load tickers from CSV   3) Choose saving location   4) Disable buttons before entry is filled
+# TODO: 1) Run by pressing enter    2) Load tickers from CSV    3) Choose saving location    4) Disable buttons before entry is filled
     master = Tk()
     stocks_list_box = StringVar()
 
